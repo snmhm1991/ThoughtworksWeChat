@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  ThoughtworksWeChat
+//
+//  Created by YangFani on 2020/10/17.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Constants.h"
+#import "UIView+TWExtension.h"
+#import "UIImageView+TWWebImageCache.h"
+#import "NSString+TWEncoder.h"
+#import "UIImage+TWAddition.h"
+
+#endif /* PrefixHeader_pch */
